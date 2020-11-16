@@ -1,1 +1,1 @@
-# Information-Sender-Profile
+# Information Sender Profile for Web advertising ecosystem
