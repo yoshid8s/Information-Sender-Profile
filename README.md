@@ -15,4 +15,4 @@ Anonymous writer of these webpages won’t take responsibility for article even 
 Because the operators of these webpages only want to get ad money.
 They are highly skilled technologist who know the detail of RTB ad system rather than journalist.
 
-https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/images/newspaper_decline.png
+![newspaper_decline](https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/images/newspaper_decline.png)
