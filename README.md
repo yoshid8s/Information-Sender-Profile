@@ -39,3 +39,4 @@ According to TV research report program of NHK (http://www.nhk.or.jp/gendai/arti
 Ordinary consumers can not discern these fake ad 
 Malicious advertisers also use the vulnerability of RTB ad system to run “Fake ad” in the same way anonymous publishers disseminate disinformation.
 
+# These situations are caused by three “asymmetry”
