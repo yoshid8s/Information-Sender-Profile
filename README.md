@@ -8,14 +8,14 @@ Ad industry should contribute to the growth of healthy information space on the 
 Consumers privacy protection is one of this challenge Ad industry must solve.
 Information space on the web is confusing now. One of its cause is digital advertising.
 
-The purpose of anonymous people creating "disinformation" is getting digital advertising money.
+### The purpose of anonymous people creating "disinformation" is getting digital advertising money.
 There are sensational informations about occurring pandemic source of COVID19 on the web.
 But these webpages have almost no evidence. 
 Anonymous writer of these webpages won’t take responsibility for article even if it is apparent that this webpage contains disinformation/misinformation.
 Because the operators of these webpages only want to get ad money.
 They are highly skilled technologist who know the detail of RTB ad system rather than journalist.
 
-In the other hand, mass media journalism is in financial difficult situation because its ad revenue is devastatingly decreasing.
+### Mass media journalism is in financial difficult situation because its ad revenue is devastatingly decreasing.
 The data sources of below figure is " Japanese Newspaper total revenue transition ( https://www.pressnet.or.jp/data/finance/finance01.php )
 ![newspaper_decline](https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/newspaper_decline.png)
 
@@ -27,7 +27,8 @@ Now, Japanese traditional media outlets journalists are forced in environment to
 This means that Journalism is under pressure in order to get ad money.
 This is very unfortunate situation.
 
-Also in Japan, "Paywall" on digital newspaper is emerging. According to the research "Press Research Institute", https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport10-2017.pdf,
+### Also in Japan, "Paywall" on digital newspaper is emerging. 
+According to the research "Press Research Institute", https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport10-2017.pdf,
 Many Japanese (65.5%) does not want to use digital newspaper for a fee.
 This means that mass media journalism institution's opinion can not reach to many people near the future especially younger persons.
 Digital advertising should be one of the solution to this problem.
