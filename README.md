@@ -26,3 +26,8 @@ This is presumed to have a direct negative impact on the quality of journalism c
 Now, Japanese traditional media outlets journalists are forced in environment to write article without fully examination in order to get more impression number of their articles on the web.
 This means that Journalism is under pressure in order to get ad money.
 This is very unfortunate situation.
+
+Also in Japan, "Paywall" on digital newspaper is emerging.
+Many Japanese (65.5%) does not want to use digital newspaper for a fee.
+This means that mass media journalism institution's opinion can not reach to many people near the future especially younger persons.
+Digital advertising should be one of the solution to this problem.
