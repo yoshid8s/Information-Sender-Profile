@@ -1,6 +1,6 @@
 # Information Sender Profile for Web advertising ecosystem
 
-The global industry standard for digital advertising to curb fake news, foster good journalism and contribute to a "healthy web information space"
+The global industry standard for digital advertising to curb fake news, foster good journalism and contribute to a "healthy web information space".
 
 # Three asymmerties in Web advertising ecosystem
 
