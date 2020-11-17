@@ -2,7 +2,7 @@
 
 The global industry standard for digital advertising to curb fake news, foster good journalism and contribute to a "healthy web information space".
 
-# Three asymmerties in Web advertising ecosystem
+# One of the reason why information space on the web is confusing is digital advertising
 
 Ad industry should contribute to the growth of healthy information space on the web in order to realize sustainability of ad industry.
 Consumers privacy protection is one of this challenge Ad industry must solve.
@@ -32,3 +32,10 @@ According to the research "Press Research Institute", https://www.chosakai.gr.jp
 Many Japanese (65.5%) does not want to use digital newspaper for a fee.
 This means that mass media journalism institution's opinion can not reach to many people near the future especially younger persons.
 Digital advertising should be one of the solution to this problem.
+
+### Ordinary consumers are easily deceived by “Fake ad” of malicious advertisers
+According to TV research report program of NHK (http://www.nhk.or.jp/gendai/articles/1885/index.html), there are many cases that consumers became victims by “Fake ad”.
+"Fake ad" NHK found was created illegally without one famous lady actress’s agreement.
+Ordinary consumers can not discern these fake ad 
+Malicious advertisers also use the vulnerability of RTB ad system to run “Fake ad” in the same way anonymous publishers disseminate disinformation.
+
