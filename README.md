@@ -9,10 +9,11 @@ Consumers privacy protection is one of this challenge Ad industry must solve.
 Information space on the web is confusing now. One of its cause is digital advertising.
 
 ### The purpose of anonymous people creating "disinformation" is getting digital advertising money.
-There are sensational informations about occurring pandemic source of COVID19 on the web.
-But these webpages have almost no evidence. 
+There are sensational informations about occurring pandemic source of COVID19 on the web.  
+When I had accessed such disinformation page via Facebook feeds on February 2020, I had come across some very famous Japanese brand's advertisements by sent through RTB advertising system.
+But such sensational webpages have almost no evidence to their articles. 
 Anonymous writer of these webpages won’t take responsibility for article even if it is apparent that this webpage contains disinformation/misinformation.
-Because the operators of these webpages only want to get ad money.
+Because the operators of these webpages only want to get ad money, they don't need to take responsibility to whether such articles is true or not.
 They are highly skilled technologist who know the detail of RTB ad system rather than journalist.
 
 ### Mass media journalism is in financial difficult situation because its ad revenue is devastatingly decreasing.
