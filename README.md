@@ -25,7 +25,7 @@ Total Sales revenue from 2004 to present have dropped to 76%.
 Total Ad revenue from 2004 to present has dropped to 44% !
 This is presumed to have a direct negative impact on the quality of journalism content.
 Now, Japanese traditional media outlets journalists are forced in environment to write article without fully examination in order to get more impression number of their articles on the web.
-This means that Journalism is under pressure in order to get ad money.
+This means that Journalism is under pressure in order to get ad money. Such pressure to journalists might cause quality down of their journals.
 This is very unfortunate situation.
 
 ### Also in Japan, "Paywall" on digital newspaper is emerging. 
