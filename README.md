@@ -97,6 +97,9 @@ Consumers can know who are responsible for this ad displayed byInformation Sende
 ### Example 5, ABC car maker (fictional advertiser)'s mobile page
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_advertiser.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="586">
 
+### Example 6, Ad agency, Dentsu's mobile page 
+<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_adagency.png" alt="Adagency_example" title="Adagency_example" width="1000" height="662">
+
 # Digital Advertising will foster Healthy web information space if Information Sender Profile’s data is connected to RTB ad market place through API connection
 
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/rtb_marketplace.png" alt="rtb_marketplace" title="rtb_marketplace" >
