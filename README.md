@@ -38,7 +38,8 @@ Digital advertising should be one of the solution to this problem.
 ### Ordinary consumers are easily deceived by “Fake ad” of malicious advertisers
 According to [TV research report program of NHK](http://www.nhk.or.jp/gendai/articles/1885/index.html), there are many cases that consumers became victims by “Fake ad”.
 "Fake ad" NHK found was created illegally without one famous lady actress’s agreement.
-Ordinary consumers can not discern these fake ad 
+Ordinary consumers can not discern these fake ad. 
+
 Malicious advertisers also use the vulnerability of RTB ad system to run “Fake ad” in the same way anonymous publishers disseminate disinformation.
 
 # These situations are caused by three “asymmetry”
