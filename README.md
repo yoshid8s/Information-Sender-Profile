@@ -87,9 +87,12 @@ When "Information Sender Profile as the new web browser's function" become Ad in
 ### Example 2, RTB ad example delivered on NEWS media company mobile webpage by using Information Sender Profile
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_example2.png" alt="Advertiser_example" title="Advertiser_example" >
 
-### Example 3, Example of Advertisement's detail information
+### Example 3, Advertisement's detail information by Information Sender Profile
 Consumers can know who are responsible for this ad displayed byInformation Sender Profile.
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_example31.png" alt="Advertiser_example" title="Advertiser_example" width="800" height="614">
+
+### Example 4, NEWS media (fictional news media company)'s YouTube Channel
+<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_youtube.png" alt="Advertiser_example" title="Advertiser_example" width="800" height="546">
 
 # Digital Advertising will foster Healthy web information space if Information Sender Profile’s data is connected to RTB ad market place through API connection
 
