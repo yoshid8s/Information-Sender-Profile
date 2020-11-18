@@ -73,9 +73,12 @@ Moreover, malicious advertisers will deceive many consumers who can not discern 
 ### RTB ad market place's fundamental premise, "every player has good faith",  is causing to disseminate fake news(disinformation/misinformation) 
 
 # Ad industry should solve these three asymmetry in order to realize a good information space on the web. 
-# Solution : Information Sender Profile
-To provide an industry standard rule solving the asymmetry of information literacy between Sender and Receiver  
-Only publisher and advertiser who is disclosing “Information Sender Profile” certified by 3rd party to Receiver(Consumer)  through web browser can join in RTB ad market place. 
-
+# Solution : Information Sender Profile as the new function of web browser
+I would like to propose to compose the new function solving the asymmetry of information literacy between Sender and Receiver into web browser as an Ad industry standard rule.  
+Only publisher and advertiser who is disclosing “Information Sender Profile” certified by 3rd party to Receiver(Consumer) through web browser can join in RTB ad market place. 
 
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution.png" alt="solution" title="solution" >
+<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_example1.png" alt="solution_example1" title="solutionexample1" >
+
+If “Transparency & Consent Framework” is built in this “Information Sender Profile” function of web browser , it will be very kind approach to consumer because she can easily change her media outlets advertising settings.
+
