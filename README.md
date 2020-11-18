@@ -79,7 +79,8 @@ I would like to propose to compose the new function solving the asymmetry of inf
 Only publisher and advertiser who is disclosing “Information Sender Profile” certified by 3rd party to Receiver(Consumer) through web browser can join in RTB ad market place. 
 
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution.png" alt="solution" title="solution" width="800" height="499">
-If [Transparency & Consent Framework](https://iabeurope.eu/transparency-consent-framework) is built in this “Information Sender Profile” function of web browser , it will be very kind approach to consumer because she can easily change her media outlets advertising settings.
+
+If [Transparency & Consent Framework](https://iabeurope.eu/transparency-consent-framework/) is built in this “Information Sender Profile” function of web browser , it will be very kind approach to consumer because she can easily change her media outlets advertising settings.
 When "Information Sender Profile as the new web browser's function" becomes Ad industry's standard and RTB Advertising will be allowed to deliver only publishers and advertisers having Information Sender Profile, RTB ad marketplace will be able to contribute to build "Healthy information space" on the web.
 
 ### Example 1, NEWS media (fictional news media company)'s mobile webpage
