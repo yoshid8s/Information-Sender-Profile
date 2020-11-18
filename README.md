@@ -83,3 +83,12 @@ Only publisher and advertiser who is disclosing “Information Sender Profile”
 If “Transparency & Consent Framework” is built in this “Information Sender Profile” function of web browser , it will be very kind approach to consumer because she can easily change her media outlets advertising settings.
 When "Information Sender Profile as the new web browser's function" become Ad industry's standard and RTB Advertising will be allowed to deliver only publishers and advertisers having Information Sender Profile, RTB ad marketplace will be able to contribute to build "Healthy information space" on the web.
 
+# Digital Advertising will foster Good information space on the web if Information Sender Profile’s data is connected to RTB ad market place through API connection
+
+<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/rtb_marketplace.png" alt="rtb_marketplace" title="rtb_marketplace" >
+
+# Digital Advertising will foster Good information space on the web if Information Sender Profile’s data is connected to RTB ad market place through API connection.
+
+1. RTB advertising transactions between trusted players are made possible by the information Sender Profile, which naturally weeds out malicious players  
+1. Consumer’s information literacy will be higher thanks to Information Sender Profile’s information
+
