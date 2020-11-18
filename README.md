@@ -19,7 +19,7 @@ In my opinion, many creators of disinformations are highly skilled technologist 
 
 ### Mass media journalism is in financial difficult situation because its ad revenue is devastatingly decreasing.
 The data sources of below figure is refered from [The Japan Newspaper Publishers & Editors Association]( https://www.pressnet.or.jp/data/finance/finance01.php ).
-![newspaper_decline](https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/newspaper_decline.png)
+<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/newspaper_decline.png" alt="newspaper_decline" width="480" height="300">
 
 Japanese Newspaper revenue is dropping year by year. 
 Total Sales revenue from 2004 to present have dropped to 76%.
