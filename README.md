@@ -18,7 +18,7 @@ These situations are pointed out by [Prof. Shinan Aral](https://mitsloan.mit.edu
 In my opinion, many creators of disinformations are highly skilled technologist who know the detail of RTB ad system rather than journalist.
 
 ### Mass media journalism is in financial difficult situation because its ad revenue is devastatingly decreasing.
-The data sources of below figure is " Japanese Newspaper total revenue transition ( https://www.pressnet.or.jp/data/finance/finance01.php )
+The data sources of below figure is refered from [The Japan Newspaper Publishers & Editors Association]( https://www.pressnet.or.jp/data/finance/finance01.php ).
 ![newspaper_decline](https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/newspaper_decline.png)
 
 Japanese Newspaper revenue is dropping year by year. 
