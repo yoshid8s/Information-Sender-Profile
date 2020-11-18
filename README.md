@@ -71,3 +71,6 @@ Many people are accessing such "fake news" pages.
 Moreover, malicious advertisers will deceive many consumers who can not discern whether it is fake ad or not.  
 
 ### RTB ad market place's fundamental premise, "every player has good faith",  is causing to disseminate fake news(disinformation/misinformation) 
+
+# Ad industry should solve these three asymmetry in order to realize a good information space on the web. 
+
