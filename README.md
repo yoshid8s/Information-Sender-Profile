@@ -77,7 +77,7 @@ Moreover, malicious advertisers will deceive many consumers who can not discern 
 I would like to propose to compose the new function solving the asymmetry of information literacy between Sender and Receiver into web browser as an Ad industry standard rule.  
 Only publisher and advertiser who is disclosing “Information Sender Profile” certified by 3rd party to Receiver(Consumer) through web browser can join in RTB ad market place. 
 
-<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution.png" alt="solution" title="solution" >
+<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution.png" alt="solution" title="solution" width="1000" height="624">
 If “Transparency & Consent Framework” is built in this “Information Sender Profile” function of web browser , it will be very kind approach to consumer because she can easily change her media outlets advertising settings.
 When "Information Sender Profile as the new web browser's function" become Ad industry's standard and RTB Advertising will be allowed to deliver only publishers and advertisers having Information Sender Profile, RTB ad marketplace will be able to contribute to build "Healthy information space" on the web.
 
@@ -93,6 +93,9 @@ Consumers can know who are responsible for this ad displayed byInformation Sende
 
 ### Example 4, NEWS media (fictional news media company)'s YouTube Channel
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_youtube.png" alt="Advertiser_example" title="Advertiser_example" width="800" height="546">
+
+### Example 5, ABC car maker (fictional advertiser)'s mobile page
+<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_advertiser.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="586">
 
 # Digital Advertising will foster Healthy web information space if Information Sender Profile’s data is connected to RTB ad market place through API connection
 
