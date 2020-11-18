@@ -14,7 +14,7 @@ When I had accessed such disinformation page via Facebook feeds on February 2020
 But such sensational webpages have almost no evidence to their articles. 
 Anonymous writer of these webpages won’t take responsibility for article even if it is apparent that this webpage contains disinformation/misinformation.
 Because the operators of these webpages only want to get ad money, they don't need to take responsibility to whether such articles is true or not.
-These situations are pointed out by Prof. Shinan Aral on HBR's article (https://hbr.org/2018/07/truth-disrupted).
+These situations are pointed out by [Prof. Shinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) on [HBR's article](https://hbr.org/2018/07/truth-disrupted).
 In my opinion, many creators of disinformations are highly skilled technologist who know the detail of RTB ad system rather than journalist.
 
 ### Mass media journalism is in financial difficult situation because its ad revenue is devastatingly decreasing.
