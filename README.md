@@ -56,5 +56,18 @@ because they don’t need to take responsibility to their no evidence article.
 
 ### 3rd asymmetry is the attitude to brand reputation existing between brand advertisers and malicious advertisers
 
-<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/asymmetry3.png" alt="2nd Asymmetry" title="2nd Asymmetry" width="968" height="400">
+<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/asymmetry3.png" alt="3rd Asymmetry" title="3rd Asymmetry" width="968" height="400">
 Malicious advertisers even deceive consumers by using famous other company's brand name in order to make money. Unfortunately, since RTB ad marketplace is building on the premise that every advertiser is fundamentally good, digital ad industry can not exclude such malicious advertisers from RTB ad marketplace.
+
+### Malicious publishers & advertisers are getting digital advertising money by leveraged three asymmetries of RTB advertising market.
+
+<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/rtb_ad_market.png" alt="RTB ad marketplace" title="RTB ad marketplace" >
+As RTB market place is free and has not a strict qualified system to players, everybody can join its market.
+This is built on the premise that everyone is fundamentally good.
+Malicious players can join in its market place by leverage of this premise.
+Such players are creating sensational webpages containing disinformation or misinformation and they use the character of social network system to disseminate such webpages. 
+Many people are accessing such "fake news" pages.
+ As the result, advertising slot of these webpages created by malicious players are increasing, and such players are able to get many digital advertising money. 
+Moreover, malicious advertisers will deceive many consumers who can not discern whether it is fake ad or not.  
+
+### RTB ad market place's fundamental premise, "every player has good faith",  is causing to disseminate fake news(disinformation/misinformation) 
