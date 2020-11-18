@@ -50,3 +50,4 @@ When Sender is not famous brand,Receiver (Consumer) have not any tool now to res
 
 ### 2nd asymmetry is the attitude to responsibility of published articles existing between brand media outlets and anonymous web publishers
 
+<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/asymmetry2.png" alt="2nd Asymmetry" title="2nd Asymmetry" width="1096" height="400">
