@@ -51,3 +51,10 @@ When Sender is not famous brand,Receiver (Consumer) have not any tool now to res
 ### 2nd asymmetry is the attitude to responsibility of published articles existing between brand media outlets and anonymous web publishers
 
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/asymmetry2.png" alt="2nd Asymmetry" title="2nd Asymmetry" width="1096" height="400">
+Anonymous web publishers are easily able to write unconfirmed articles and get digital ad money 
+because they don’t need to take responsibility to their no evidence article.
+
+### 3rd asymmetry is the attitude to brand reputation existing between brand advertisers and malicious advertisers
+
+<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/asymmetry3.png" alt="2nd Asymmetry" title="2nd Asymmetry" width="968" height="400">
+Malicious advertisers even deceive consumers by using famous other company's brand name in order to make money. Unfortunately, since RTB ad marketplace is building on the premise that every advertiser is fundamentally good, digital ad industry can not exclude such malicious advertisers from RTB ad marketplace.
