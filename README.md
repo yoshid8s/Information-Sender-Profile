@@ -30,13 +30,13 @@ This means that Journalism is under pressure in order to get ad money. Such pres
 This is very unfortunate situation.
 
 ### Also in Japan, "Paywall" on digital newspaper is emerging. 
-According to the research "Press Research Institute", https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport10-2017.pdf,
+According to the research [Press Research Institute](https://www.chosakai.gr.jp/wp/wp-content/themes/shinbun/asset/pdf/project/notification/jpyoronreport10-2017.pdf),
 Many Japanese (65.5%) does not want to use digital newspaper for a fee.
 This means that mass media journalism institution's opinion can not reach to many people near the future especially younger persons.
 Digital advertising should be one of the solution to this problem.
 
 ### Ordinary consumers are easily deceived by “Fake ad” of malicious advertisers
-According to TV research report program of NHK (http://www.nhk.or.jp/gendai/articles/1885/index.html), there are many cases that consumers became victims by “Fake ad”.
+According to [TV research report program of NHK](http://www.nhk.or.jp/gendai/articles/1885/index.html), there are many cases that consumers became victims by “Fake ad”.
 "Fake ad" NHK found was created illegally without one famous lady actress’s agreement.
 Ordinary consumers can not discern these fake ad 
 Malicious advertisers also use the vulnerability of RTB ad system to run “Fake ad” in the same way anonymous publishers disseminate disinformation.
