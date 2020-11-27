@@ -43,7 +43,7 @@ Ordinary consumers can not discern these fake ad.
 Malicious advertisers also use the vulnerability of RTB ad system to run “Fake ad” in the same way anonymous publishers disseminate disinformation.
 
 # These situations are caused by three “asymmetries”
-### 1st asymmetry is situation in information analytical literacy existing between Sender and Receiver
+### 1st asymmetry is the situation in information analytical literacy existing between Sender and Receiver
 
   <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/asymmetry1.png" alt="First Asymmetry" title="First Asymmetry" width="400" height="500"> 
   Sender (Publisher & Advertiser) have various tool analyzing Receiver’s profile and can send personalized ads to consumers by using RTB ad system .
