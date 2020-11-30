@@ -111,7 +111,7 @@ Consumers can know who are responsible for this ad displayed byInformation Sende
 
 # JTI standard , a proposal from Journalist side ( RSF ) - Information Sender Profile for media outlets 
 
-RSF ( Reporters Without Borders ) has conducted [Journalism Trust Initiative ( JTI ) project](https://jti-rsf.org/en/) since 2018. 
+[RSF ( Reporters Without Borders )](https://rsf.org/) has conducted [Journalism Trust Initiative ( JTI ) project](https://jti-rsf.org/en/) since 2018. 
 The objective of JTI is to foster qualitative media by rewarding reliable sources.
 After the successful development of the JTI standard of criteria as a Workshop agreement under the aegis of the European Committee for Standardization (CEN) , a number of are planned to facilitate and promote its usage in Member States of EU.
 Now RSF has beginning the development of JTI online tool by getting [grant of European Committee](https://ec.europa.eu/digital-single-market/en/news/pilot-project-fostering-qualitative-media-rewarding-reliable-sources-journalism-trust).
