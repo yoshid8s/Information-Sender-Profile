@@ -109,3 +109,12 @@ Consumers can know who are responsible for this ad displayed byInformation Sende
 1. RTB advertising transactions between trusted players are made possible by the information Sender Profile, which naturally weeds out malicious players  
 1. Consumer’s information literacy will be higher thanks to Information Sender Profile’s information
 
+# JTI standard , a proposal from Journalist side ( RSF ) - Information Sender Profile for media outlets 
+
+RSF ( Reporters Without Borders ) has conducted [Journalism Trust Initiative ( JTI ) project](https://jti-rsf.org/en/) since 2018. 
+The objective of JTI is to foster qualitative media by rewarding reliable sources.
+After the successful development of the JTI standard of criteria as a Workshop agreement under the aegis of the European Committee for Standardization (CEN) , a number of are planned to facilitate and promote its usage in Member States of EU.
+Now RSF has beginning the development of JTI online tool by getting [grant of European Committee](https://ec.europa.eu/digital-single-market/en/news/pilot-project-fostering-qualitative-media-rewarding-reliable-sources-journalism-trust).
+
+JTI standard will be the most preferable datasets of Information Sender Profile for media outlets.
+
