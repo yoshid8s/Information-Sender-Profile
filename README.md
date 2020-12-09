@@ -117,5 +117,4 @@ After the successful development of the JTI standard of criteria as a Workshop a
 Now RSF has beginning the development of JTI online tool by getting [grant of European Committee](https://ec.europa.eu/digital-single-market/en/news/pilot-project-fostering-qualitative-media-rewarding-reliable-sources-journalism-trust).
 
 JTI standard will be the most preferable datasets of Information Sender Profile for media outlets.
-[This JTI project's interactive webpage](https://www.jti-rsf.org/questionnaire/index.php/register/index?sid=294839) allow you to read the draft of JTI standard documents and to check your compliances as a media outlet.
 
