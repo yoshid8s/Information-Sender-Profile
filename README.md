@@ -1,4 +1,4 @@
-# Information Sender Profile for Web advertising ecosystem
+# Originator Profile for Web advertising ecosystem
 
 The global industry standard for digital advertising to curb fake news, foster good journalism and contribute to a "healthy web information space".
 
@@ -74,22 +74,22 @@ Moreover, malicious advertisers will deceive many consumers who can not discern 
 ### RTB ad market place's fundamental premise, "every player has good faith",  is causing to disseminate fake news(disinformation/misinformation) 
 
 # Ad industry should solve these three asymmetries in order to realize healthy information space on the web. 
-# Solution : Information Sender Profile as the new function of web browser
+# Solution : Originator Profile as the new function of web browser
 I would like to propose to compose the new function solving the asymmetry of information literacy between Sender and Receiver into web browser as an Ad industry standard rule.  
-Only publisher and advertiser who is disclosing “Information Sender Profile” certified by 3rd party to Receiver(Consumer) through web browser can join in RTB ad market place. 
+Only publisher and advertiser who is disclosing “Originator Profile” certified by 3rd party to Receiver(Consumer) through web browser can join in RTB ad market place. 
 
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution.png" alt="solution" title="solution" width="800" height="499">
 
-If [Transparency & Consent Framework](https://iabeurope.eu/transparency-consent-framework/) is built in this “Information Sender Profile” function of web browser , it will be very kind approach to consumer because she can easily change her media outlets advertising settings.
-When "Information Sender Profile as the new web browser's function" becomes Ad industry's standard and RTB Advertising will be allowed to deliver only publishers and advertisers having Information Sender Profile, RTB ad marketplace will be able to contribute to build "Healthy information space" on the web.
+If [Transparency & Consent Framework](https://iabeurope.eu/transparency-consent-framework/) is built in this “Originator Profile” function of web browser , it will be very kind approach to consumer because she can easily change her media outlets advertising settings.
+When "Originator Profile as the new web browser's function" becomes Ad industry's standard and RTB Advertising will be allowed to deliver only publishers and advertisers having Originator Profile, RTB ad marketplace will be able to contribute to build "Healthy information space" on the web.
 
 ### Example 1, NEWS media (fictional news media company)'s mobile webpage
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_example11.png" alt="Publisher_example" title="Publisher_example" >
 
-### Example 2, RTB ad example delivered on NEWS media company mobile webpage by using Information Sender Profile
+### Example 2, RTB ad example delivered on NEWS media company mobile webpage by using Originator Profile
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_example2.png" alt="Advertiser_example" title="Advertiser_example" >
 
-### Example 3, Advertisement's detail information by Information Sender Profile
+### Example 3, Advertisement's detail information by Originator Profile
 Consumers can know who are responsible for this ad displayed byInformation Sender Profile.
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_example31.png" alt="Advertiser_example" title="Advertiser_example" width="800" height="614">
 
@@ -106,8 +106,8 @@ Consumers can know who are responsible for this ad displayed byInformation Sende
 
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/rtb_marketplace.png" alt="rtb_marketplace" title="rtb_marketplace" >
 
-1. RTB advertising transactions between trusted players are made possible by the information Sender Profile, which naturally weeds out malicious players  
-1. Consumer’s information literacy will be higher thanks to Information Sender Profile’s information
+1. RTB advertising transactions between trusted players are made possible by Originator Profile, which naturally weeds out malicious players  
+1. Consumer’s information literacy will be higher thanks to Originator Profile’s information
 
 # JTI standard , a proposal from Journalist side ( RSF ) - Information Sender Profile for media outlets 
 
@@ -116,5 +116,5 @@ The objective of JTI is to foster qualitative media by rewarding reliable source
 After the successful development of the JTI standard of criteria as a Workshop agreement under the aegis of the European Committee for Standardization (CEN) , a number of activities are planned to facilitate and promote its usage in Member States of EU.
 Now RSF has beginning the development of JTI online tool by getting [grant of European Committee](https://ec.europa.eu/digital-single-market/en/news/pilot-project-fostering-qualitative-media-rewarding-reliable-sources-journalism-trust).
 
-JTI standard will be the most preferable datasets of Information Sender Profile for media outlets.
+JTI standard will be the most preferable datasets of Originator Profile for media outlets.
 
