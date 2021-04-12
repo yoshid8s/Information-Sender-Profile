@@ -62,7 +62,7 @@ Malicious advertisers even deceive consumers by using famous other company's bra
 
 ### Malicious publishers & advertisers are getting digital advertising money by leveraged three asymmetries of RTB advertising market.
 
-<img src="https://raw.github.com/wiki/yoshid8s/-Profile/rtb_ad_market.png" alt="RTB ad marketplace" title="RTB ad marketplace" >
+<img src="https://raw.github.com/wiki/yoshid8s/Originator-Profile/rtb_ad_market.png" alt="RTB ad marketplace" title="RTB ad marketplace" >
 As RTB market place is free and has not a strict qualified system to players, everybody can join its market.
 This is built on the premise that everyone is fundamentally good.
 Malicious players can join in its market place by leverage of this premise.
