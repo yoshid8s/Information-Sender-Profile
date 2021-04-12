@@ -78,7 +78,7 @@ Moreover, malicious advertisers will deceive many consumers who can not discern 
 I would like to propose to compose the new function solving the asymmetry of information literacy between Sender and Receiver into web browser as an Ad industry standard rule.  
 Only publisher and advertiser who is disclosing “Originator Profile” certified by 3rd party to Receiver(Consumer) through web browser can join in RTB ad market place. 
 
-<img src="https://raw.github.com/wiki/yoshid8s/Originator-Profile/solution1.png" alt="solution" title="solution" width="1000" height="624">
+<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution1.png" alt="solution" title="solution" width="1000" height="624">
 
 If [Transparency & Consent Framework](https://iabeurope.eu/transparency-consent-framework/) is built in this “Originator Profile” function of web browser , it will be very kind approach to consumer because she can easily change her media outlets advertising settings.
 When "Originator Profile as the new web browser's function" becomes Ad industry's standard and RTB Advertising will be allowed to deliver only publishers and advertisers having Originator Profile, RTB ad marketplace will be able to contribute to build "Healthy information space" on the web.
