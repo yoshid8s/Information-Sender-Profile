@@ -100,7 +100,7 @@ Consumers can know who are responsible for this ad displayed byInformation Sende
 <img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_advertiser13.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="586">
 
 ### Example 6, Ad agency's mobile page 
-<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_adagency1.png" alt="Adagency_example" title="Adagency_example" width="1000" height="662">
+<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_adagency12.png" alt="Adagency_example" title="Adagency_example" width="1000" height="662">
 
 # Digital Advertising will foster Healthy web information space if Information Sender Profile’s data is connected to RTB ad market place through API connection
 
