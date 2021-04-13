@@ -91,7 +91,7 @@ When "Originator Profile as the new web browser's function" becomes Ad industry'
 
 ### Example 3, Advertisement's detail information by Originator Profile
 Consumers can know who are responsible for this ad displayed byInformation Sender Profile.
-<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_example31.png" alt="Advertiser_example" title="Advertiser_example" width="800" height="614">
+<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_example32.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="768">
 
 ### Example 4, NEWS media (fictional news media company)'s YouTube Channel
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_youtube.png" alt="Advertiser_example" title="Advertiser_example" width="800" height="546">
