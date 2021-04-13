@@ -109,7 +109,7 @@ Consumers can know who are responsible for this ad displayed byInformation Sende
 1. RTB advertising transactions between trusted players are made possible by Originator Profile, which naturally weeds out malicious players  
 1. Consumer’s information literacy will be higher thanks to Originator Profile’s information
 
-# JTI standard , a proposal from Journalist side ( RSF ) - Information Sender Profile for media outlets 
+# JTI standard , a proposal from Journalist side ( RSF ) - Originagor Profile for media outlets 
 
 [RSF ( Reporters Without Borders )](https://rsf.org/) has conducted [Journalism Trust Initiative ( JTI ) project](https://jti-rsf.org/en/) since 2018. 
 The objective of JTI is to foster qualitative media by rewarding reliable sources.
