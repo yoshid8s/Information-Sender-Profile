@@ -1,4 +1,4 @@
-# Originator Profile for Web advertising ecosystem
+# "Originator Profile" (OP)  in order to foster general public's media literacy and good journalism
 
 The global industry standard for digital advertising to curb fake news, foster good journalism and contribute to a "healthy web information space".
 
