@@ -97,7 +97,7 @@ Consumers can know who are responsible for this ad displayed byInformation Sende
 <img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_youtube2.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="683">
 
 ### Example 5, Advertiser's mobile page
-<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_advertiser11.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="586">
+<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_advertiser2.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="586">
 
 ### Example 6, Ad agency's mobile page 
 <img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_adagency1.png" alt="Adagency_example" title="Adagency_example" width="1000" height="662">
