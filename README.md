@@ -94,7 +94,7 @@ Consumers can know who are responsible for this ad displayed byInformation Sende
 <img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_example32.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="768">
 
 ### Example 4, NEWS media's YouTube Channel
-<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_youtube1.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="683">
+<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_youtube2.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="683">
 
 ### Example 5, Advertiser's mobile page
 <img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_advertiser11.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="586">
