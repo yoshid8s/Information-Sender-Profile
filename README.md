@@ -96,8 +96,8 @@ Consumers can know who are responsible for this ad displayed byInformation Sende
 ### Example 4, NEWS media (fictional news media company)'s YouTube Channel
 <img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_youtube1.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="683">
 
-### Example 5, ABC car maker (fictional advertiser)'s mobile page
-<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_advertiser1.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="586">
+### Example 5, ABC car (fictional advertiser)'s mobile page
+<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_advertiser11.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="586">
 
 ### Example 6, Ad agency, Dentsu's mobile page 
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_adagency.png" alt="Adagency_example" title="Adagency_example" width="1000" height="662">
