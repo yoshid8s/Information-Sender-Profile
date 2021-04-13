@@ -87,7 +87,7 @@ When "Originator Profile as the new web browser's function" becomes Ad industry'
 <img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_example12.png" alt="Publisher_example" title="Publisher_example"  width="1000" height="578">
 
 ### Example 2, RTB ad example delivered on NEWS media company mobile webpage by using Originator Profile
-<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_example21.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="667">
+<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_example22.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="667">
 
 ### Example 3, Advertisement's detail information by Originator Profile
 Consumers can know who are responsible for this ad displayed byInformation Sender Profile.
