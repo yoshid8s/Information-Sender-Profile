@@ -104,7 +104,7 @@ Consumers can know who are responsible for this ad displayed byInformation Sende
 
 # Digital Advertising will foster Healthy web information space if Information Sender Profile’s data is connected to RTB ad market place through API connection
 
-<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/rtb_marketplace.png" alt="rtb_marketplace" title="rtb_marketplace" >
+<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/rtb_marketplace1.png" alt="rtb_marketplace" title="rtb_marketplace" width="1000" height="501" >
 
 1. RTB advertising transactions between trusted players are made possible by Originator Profile, which naturally weeds out malicious players  
 1. Consumer’s information literacy will be higher thanks to Originator Profile’s information
