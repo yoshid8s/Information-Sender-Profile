@@ -84,7 +84,7 @@ If [Transparency & Consent Framework](https://iabeurope.eu/transparency-consent-
 When "Originator Profile as the new web browser's function" becomes Ad industry's standard and RTB Advertising will be allowed to deliver only publishers and advertisers having Originator Profile, RTB ad marketplace will be able to contribute to build "Healthy information space" on the web.
 
 ### Example 1, NEWS media (fictional news media company)'s mobile webpage
-<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_example11.png" alt="Publisher_example" title="Publisher_example" >
+<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_example11.png" alt="Publisher_example" title="Publisher_example"  width="1000" height="578">
 
 ### Example 2, RTB ad example delivered on NEWS media company mobile webpage by using Originator Profile
 <img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_example2.png" alt="Advertiser_example" title="Advertiser_example" >
