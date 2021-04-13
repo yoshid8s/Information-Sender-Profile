@@ -83,7 +83,7 @@ Only publisher and advertiser who is disclosing “Originator Profile” certifi
 If [Transparency & Consent Framework](https://iabeurope.eu/transparency-consent-framework/) is built in this “Originator Profile” function of web browser , it will be very kind approach to consumer because she can easily change her media outlets advertising settings.
 When "Originator Profile as the new web browser's function" becomes Ad industry's standard and RTB Advertising will be allowed to deliver only publishers and advertisers having Originator Profile, RTB ad marketplace will be able to contribute to build "Healthy information space" on the web.
 
-### Example 1, NEWS media (fictional news media company)'s mobile webpage
+### Example 1, NEWS media's mobile webpage
 <img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_example12.png" alt="Publisher_example" title="Publisher_example"  width="1000" height="578">
 
 ### Example 2, RTB ad example delivered on NEWS media company mobile webpage by using Originator Profile
@@ -93,14 +93,14 @@ When "Originator Profile as the new web browser's function" becomes Ad industry'
 Consumers can know who are responsible for this ad displayed byInformation Sender Profile.
 <img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_example32.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="768">
 
-### Example 4, NEWS media (fictional news media company)'s YouTube Channel
+### Example 4, NEWS media's YouTube Channel
 <img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_youtube1.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="683">
 
-### Example 5, ABC car (fictional advertiser)'s mobile page
+### Example 5, Advertiser's mobile page
 <img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_advertiser11.png" alt="Advertiser_example" title="Advertiser_example" width="1000" height="586">
 
-### Example 6, Ad agency, Dentsu's mobile page 
-<img src="https://raw.github.com/wiki/yoshid8s/Information-Sender-Profile/solution_adagency.png" alt="Adagency_example" title="Adagency_example" width="1000" height="662">
+### Example 6, Ad agency's mobile page 
+<img src="https://github.com/yoshid8s/Originator-Profile/blob/main/solution_adagency1.png" alt="Adagency_example" title="Adagency_example" width="1000" height="662">
 
 # Digital Advertising will foster Healthy web information space if Information Sender Profile’s data is connected to RTB ad market place through API connection
 
