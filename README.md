@@ -4,10 +4,10 @@ The global industry standard for digital advertising to curb fake news, foster g
 
 # Fake news problem is occurred by the complicated mixture how Internet users have media literacy and how digital advertising is delivered to Internet users.
 In order to curb dissemination of fake news( disinformation / misinformation) 
-1) people have adequate media literacy.
- -People have grow their own media literacy so that they can discern whether the information they received is fake or not. If people have adequate media literacy, they can hold such wrong information in only their private sphere and stop transferring fake news to other people in public sphere such as Social Network.
+1) ## people have adequate media literacy
+ *People have grow their own media literacy so that they can discern whether the information they received is fake or not. If people have adequate media literacy, they can hold such wrong information in only their private sphere and stop transferring fake news to other people in public sphere such as Social Network.
 2)To create digital advertising ecosystem supporting good journalism.
- -Ad industry should contribute to the growth of healthy information space on the web in order to realize sustainability of ad industry. Ad industry must solve not only consumers privacy protection but also this fake news problem.
+ *Ad industry should contribute to the growth of healthy information space on the web in order to realize sustainability of ad industry. Ad industry must solve not only consumers privacy protection but also this fake news problem.
 
 ### The purpose of anonymous people creating "disinformation" is getting digital advertising money.
 There are sensational informations about occurring pandemic source of COVID19 on the web.  
