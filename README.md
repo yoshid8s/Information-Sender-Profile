@@ -10,8 +10,7 @@ If people have adequate media literacy, they can hold such wrong information in 
 2) To create digital advertising ecosystem supporting good journalism
 
 Ad industry should contribute to the growth of healthy information space on the web in order to realize sustainability of ad industry.
-Consumers privacy protection is one of this challenge Ad industry must solve.
-Information space on the web is confusing now. One of its cause is digital advertising.
+Ad industry must solve not only consumers privacy protection but also this fake news problem.
 
 ### The purpose of anonymous people creating "disinformation" is getting digital advertising money.
 There are sensational informations about occurring pandemic source of COVID19 on the web.  
