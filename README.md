@@ -3,6 +3,11 @@
 The global industry standard for digital advertising to curb fake news, foster general public's media literacy and good journalism and contribute to a "healthy web information space".
 
 # Fake news problem is occurred by the complicated mixture how Internet users have media literacy and how digital advertising is delivered to Internet users.
+In order to curb dissemination of fake news( disinformation / misinformation) 
+1) people have adequate media literacy
+People have grow their own media literacy so that they can discern whether the information they received is fake or not.
+If people have adequate media literacy, they can hold such wrong information in only their private sphere and stop transferring fake news to other people in public sphere such as Social Network.
+2) To create digital advertising ecosystem supporting good journalism
 
 Ad industry should contribute to the growth of healthy information space on the web in order to realize sustainability of ad industry.
 Consumers privacy protection is one of this challenge Ad industry must solve.
