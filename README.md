@@ -2,7 +2,7 @@
 
 The global industry standard for digital advertising to curb fake news, foster general public's media literacy and good journalism and contribute to a "healthy web information space".
 
-# One of the reason why information space on the web is confusing is digital advertising
+# Fake news problem is occurred by the complicated mixture how Internet users have media literacy and how digital advertising is delivered to Internet users.
 
 Ad industry should contribute to the growth of healthy information space on the web in order to realize sustainability of ad industry.
 Consumers privacy protection is one of this challenge Ad industry must solve.
