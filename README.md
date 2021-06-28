@@ -1,6 +1,7 @@
 # "Originator Profile" (OP)  in order to foster general public's media literacy and good journalism
 
-The global industry standard for digital advertising to curb fake news, foster general public's media literacy and good journalism and contribute to a "healthy web information space".
+WGML proposes Originator Profile as the global industry standard for digital advertising to curb fake news, foster general public's media literacy and good journalism and contribute to a "healthy web information space". WGML is Keio university's research group whose leader is Prof.Jun Murai.
+We would like to contribute to build "healthy web information space" by gaining digital advertising stakeholders consensus ​to make Originator Profile be part of "Privacy sandbox" technology which is discussed in W3C improving Web Advertising Business Group.
 
 # Fake news problem is occurred by the complicated mixture how Internet users have media literacy and how digital advertising is delivered to Internet users.
 In order to curb dissemination of fake news( disinformation / misinformation) 
